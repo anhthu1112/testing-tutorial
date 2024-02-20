@@ -9,3 +9,5 @@ var interval = setInterval(() => {
     clearInterval(interval);
   }
 }, 1000);
+
+var a = 10 
